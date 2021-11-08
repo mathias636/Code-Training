@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main (String[] args) throws IOException {
-		Scanner scanner = new Scanner (system.in);
+		Scanner scanner = new Scanner (System.in);
 		int A;
 		int B;
 		int X;
