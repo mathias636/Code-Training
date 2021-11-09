@@ -2,7 +2,7 @@
 
 All my URI exercises.
 
-🎯 Objective: To do a single exercise every day for 30 minutes in one language: Java.
+🎯 Objective: To do a single exercise every day for 30 minutes, using VIM and one main language, Java.
 
 
 ### Also, see my notion
