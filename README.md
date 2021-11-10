@@ -1,4 +1,4 @@
-# URI-Java
+# Code Training
 
 All my exercises and notes through small steps done everyday
 
