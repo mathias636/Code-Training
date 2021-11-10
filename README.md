@@ -1,6 +1,6 @@
 # URI-Java
 
-All my URI exercises.
+All my exercises and notes through small steps done everyday
 
 🎯 Objective: To do a single exercise every day for 30 minutes, using VIM and one main language, Java.
 
