@@ -1,6 +1,6 @@
 # Code Training
 
-All my exercises and notes through small steps done ever yday
+All my exercises and notes through small steps done every day
 
 🎯 Objective: To do a single exercise every day for 30 minutes, using VIM and one main language, Java.
 
