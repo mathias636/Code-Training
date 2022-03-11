@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-ALTERADO EM BUGFIX
-=======
-alterado no remoto
->>>>>>> c30906c7bc0cc159c93ac4401771f43605f3a29c

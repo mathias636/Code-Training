@@ -1,1 +1,0 @@
-arquivo index2.txt alterado em main
